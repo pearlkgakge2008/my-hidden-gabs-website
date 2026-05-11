@@ -1,4 +1,4 @@
-/* GENERAL PAGE */
+
 body{
     background-color: #111111;
     color: white;
@@ -7,7 +7,7 @@ body{
     padding: 0;
 }
 
-/* NAVBAR */
+
 nav{
     display: flex;
     justify-content: space-between;
@@ -19,7 +19,7 @@ nav h1{
     color: #d4a373;
 }
 
-/* TOP PICKS SECTION */
+
 .top-picks{
     padding: 40px;
 }
@@ -47,7 +47,7 @@ nav h1{
     transform: translateY(-5px);
 }
 
-/* BUTTON */
+
 button{
     background-color: #d4a373;
     color: black;
